@@ -1,0 +1,74 @@
+GPS Technology: The Creation of Accurate Maps Transcript
+Text reads: Investigation.
+As you watch this segment, think about how GPS has improved the ability of scientists to make accurate maps.
+Where are we? Where are we going? How do we get there? And how do we get home? 
+The video shows the Earth from space and zooms in on the surface.
+People have been asking these questions for centuries. 
+The video shows a time lapse of a canyon.
+Maps help to provide the answers. 
+The video shows a hand pointing to an area on a colorful map made of sparse lines.
+A map is a flat surface model that represents at least part of Earth’s surface as seen from above, and a globe is a sphere that represents the entire planet. 
+The video shows colorful photographs on a table and a person gesturing to them. The camera angle moves upwards to show two men looking down at the maps. The video switches to show the Earth from space.
+Of course, we still rely on maps and globes today, just as early explorers and travelers did. 
+The Earth transitions from a sphere to a flat map.
+But now we've got an ally in the sky. 
+The video shows the view from the ground next to a large dish, looking up towards a single object in the night sky. 
+The global positioning system, or GPS, is technology that is transforming the way maps are made and the ways we use maps. 
+The video shows the surface of the Earth as seen from space. The area shown is covered in swirling clouds.
+In the process, it is changing our understanding of the world. 
+Videos show people walking on busy streets.
+Once mapmakers of old knew that Earth is round, they drew the equator—the horizontal halfway point between the North and South Poles— and the prime meridian—a vertical half circle from the North Pole to the South Pole. 
+An animation shows a flat map of the Earth. A horizontal line is drawn through the center. Text reads: Equator. The line and text are removed. A vertical line is drawn through the center. Text reads: Prime Meridian. The line and text are removed.
+To help define coordinates or exact locations on Earth, lines of latitude and longitude were also drawn. 
+On the map, evenly spaced, horizontal lines are drawn, with the center line drawn at the equator. Above the center line, text reads: 0 degrees. Then, evenly spaced, vertical lines are drawn, with the center line drawn at the prime meridian. Above the center line, text reads: 0 degrees.
+Latitude is the distance in degrees north and south from the equator. 
+The lines are removed. The horizontal line is redrawn at the equator. Four additional horizontal lines are drawn, two above and two below the equator. At the bottom, text reads: Latitude. There is text just above each line on the right side. Above the top line, text reads: 60 degrees Upper N. Above the next line down, text reads: 30 degrees Upper N. Above the next line down, text reads: 0 degrees. Above the next line down, text reads: 30 degrees Upper S. Above the next line down, text reads: 60 degrees Upper S.
+Longitude is the distance in degrees east or west of the prime meridian. 
+The lines and text are removed. The vertical line is redrawn at the prime meridian. Eight additional vertical lines are drawn, four to the left and four to the right of the prime meridian.
+Now GPS can be used to find precise latitude and longitude points for any place on Earth. 
+The video shows two helicopters flying over dry land. It then shows a terrain map. This changes again to show a type of flat map. This changes again to show another type of flat map.
+Twenty-four GPS satellites in orbit, 17,700 kilometers above Earth, can provide a person's latitude and longitude at any given time and update that information as you move. 
+The video shows the Earth, zoomed in on the western United States and then zooms out to show the Earth from space. Small rectangles appear, with lines extending from them in different directions. The video continues to zoom out to show the lines drawn to encompass the Earth. The video switches to show a person holding a small GPS with a display. On the display are a mix of letters and numbers. Below the display is a keypad with arrows, numbers, and words. The person starts to press buttons.
+But how? A GPS satellite is essentially an orbiting clock that broadcasts signals about its exact location at an exact time. 
+The video shows the Earth from space with the Sun in the background. In the foreground, a satellite is shown. The satellite is made up of a rectangular prism shaped piece with an attached cylindrical object. Extending from each side of the rectangle is a flat rectangular panel, made up of four smaller panels.  
+A GPS receiver processes this information and determines the exact distance of the GPS satellite from the receiver. 
+The video shows a person in military uniform holding a small GPS device and pressing buttons. It then shows a person pressing buttons on a keypad. The video changes to show the output of a GPS receiver. The screen reads “Distance: 13.02 Nautical Miles; Speed Over Ground: 0.1 Knots.” The camera pans right to show the rest of the screen that reads “Bearing: 1 degree; Course Over Ground: 167 degrees.” The Course Over Ground changes from 167 to 203 to 115 to 201. 
+GPS satellites travel in very precise orbits, which helps the receiver to calculate its exact location on Earth at that moment. 
+An animation shows three satellites from space, above the Earth. A line is drawn from a point on each satellite to the same point on Earth. A series of rings are drawn emanating from this point.
+Once GPS determines the exact locations of objects on Earth, the data can be used—along with other electronic tools like additional radar imaging satellites—to help us create three-dimensional maps of an area. 
+The video shows a plane landing on a runway. It then shows a person inside of a plane, holding a map and pressing buttons on a keypad below a GPS display. The video changes to show people in a dark room, looking at information on different monitors. It changes to show the Earth on a monitor, zooming in on an area where different points are marked. 
+The maps are created by plotting the coordinates generated by this technology. 
+The video shows the Earth, zoomed in on the western United States and then zooms out to show the Earth from space. Small rectangles appear, with lines extending from them in different directions to encompass the Earth.
+Since GPS provides more accurate coordinates for land features than more traditional methods of mapmaking, the maps produced using GPS are far more exact and effective. 
+The video shows a black and white map of an area on a monitor. The map is overwritten in rectangles, from the top left and moving right, to show another, more colorful, map of the same area. The video changes to show this happening with another map. On the new map, lines are drawn around certain areas. In one section, text reads: water. In another section, text reads: wetland. The video changes to show another black and white map on a monitor. A colorful map appears over it.
+This allows us to have a better understanding of the shape of the land, or the topography, and precise locations than we ever did before. 
+The video shows a dark map appearing on a monitor. It changes to show another, more colorful map appearing on a monitor. The video changes to show a terrain map of a mountainous region. The video changes to show a flat surface. On the right is a cluster of objects. On the left is a dark spot surrounded by thin lines. The map transitions to show a black and white map of the same area.
+GPS has been very helpful to Earth scientists. 
+The video shows two people working in a dark room. There are maps on the wall. One of the people is writing on an illuminated surface and the other is laying a clear sheet on a table.
+For example, scientists use GPS to track the direction and flow of glaciers to determine how climate variations affect their movements. 
+The video shows hands typing on a keyboard. It changes to show a man. It changes again to show a view of a small part of the Earth, partially covered in cloud.
+GPS is even being applied to monitor tectonic plate movements in the hope of assessing the risk of earthquakes in some areas. 
+The video shows a person scrolling through a computer screen, looking at maps on the monitor. The video changes to show a photograph of the surface of a body of water near a small piece of land. There are circular ripples on the surface of the water.
+But GPS mapping has uses in everyday life in ways you may not even be aware of. 
+The video shows a GPS monitor. To the right of the monitor is a keypad with different buttons and dials. The monitor is mostly black with long, thin bands of green. The camera pans left to show another monitor surrounded by different buttons. On the monitor, constantly changing numbers are displayed.
+At sea, GPS is used daily on fishing outings. 
+The video shows two men on a boat, placing their rods into a holder.
+It tells fishers where they are in relation to the coast and gives a constantly updated map as they move. 
+The video changes to show a small GPS monitor with a map and other numbers. There is a keypad on the right with buttons. As a hand presses buttons, the display changes to zoom in on the map.
+GPS can also be used to create maps that help boats navigate to any desired location. 
+A video shows a man on a boat, looking down at a map. He moves it around and uses his finger to trace on it.
+Emergency responders use GPS to identify which firetruck or ambulance is closest to the scene of an accident, and to provide the quickest route to get there. (ambulance sirens)
+The video shows a group of people loading a gurney into the back of an ambulance as lights are flashing. The video changes to a GPS display of lines. On one of the lines is a triangle, pointing up a line and moving along it.
+And these days many rental cars have GPS, which travelers can use along with a digital roadmap to help them find their destinations in unfamiliar places. 
+The video shows a car driving down a road and shows the person driving it. It transitions to show the view from inside the car, looking down the road. Other cars can be seen heading in the opposite direction. The video changes to show a GPS display. The screen reads “Exit at: Upper G Upper A hyphen 42 slash North Druid Hill;  Upper G Upper A hyphen 42 North slash North Druid.” Below the text are two arrows that point up and to the right, then straight up again. Below the arrows the screen reads “Ahead 0.6 Mile.”
+GPS has come a long way from its original purpose of use in military operations. 
+The video shows a person pressing buttons. The video changes to show a woman driving in a car. It changes to show the road ahead from inside the car, looking at an intersection.
+Today, even golfers can get a bird’s eye view of the course before them. 
+The video shows a person hitting a golf ball. It changes to show a GPS monitor displaying a map of the hole. The map is blue with a bean-shaped green area. A point is marked on the bottom left of the green area. To the right of the green area, numbers are displayed. Near the top is the number 129, near the middle is the number 95, and near the bottom is the number 85. The video changes to show a golf ball going into a hole. It changes again to show a golf cart and zooms in on a small GPS device attached to the ceiling of the cart.
+They use this map to accurately gauge the direction and distance they need for their next shot. 
+The video changes to show a long, green oblong oval shape. Along the inside is another smaller, lighter green oblong shape. A series of small, darker green circle shapes are drawn along the edge and just inside of the larger green area. Other white, blue, and red shapes appear. A meandering line is drawn from the left end to the right end of the darker green area. A line is drawn from a white object to the number 270. Another line is drawn from a white object to the number 352. Another line is drawn from a light green object to the number 345. On the bottom right of the display, the screen reads “Yardage to Pin 383; Crosshair Yardage 383; Player 1 Shot Distance; Player 2 Shot Distance.”
+The video zooms out to show a hand pressing buttons below the display. A new screen appears to show a light green, bean-shaped area.
+GPS is revolutionizing the way we think of maps and helping us travel, chart courses, and better understand the world around us
+The video shows a car driving down the street. The video changes to show a map of a vertical strip of land next to water. On the land, text reads: Baja. A line is drawn over the water, to the left of the land, moving from the top down. The video changes to show a time lapse of a highway in front of a city at night. 
+Describe how GPS is being used to create more accurate maps.
+
