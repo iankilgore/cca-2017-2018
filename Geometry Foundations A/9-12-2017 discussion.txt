@@ -1,0 +1,13 @@
+If it is dark outside, then it is nighttime.
+If we turn off the water in the shower, then the water will stop running.
+
+abacus - an instrument for performing calculations by sliding counters along rods or in grooves.
+
+electricity - a form of energy resulting from the existence of charged particles (such as electrons or protons), either statically as an accumulation of charge or dynamically as a current.
+
+
+View posts from your classmates and choose one to which you will respond. For #1, you will need to write the converse of each conditional statement. Recall that the converse is written in the form If B, then A. Is the converse true? Why or why not? For #2, you will need to write a biconditional of each definition. Recall that a biconditional is written in the form A if and only if B. Do the biconditionals make for good definitions? Justify your reasoning.
+
+If you earn money, then you will work.  If you are tired, then you won't sleep.  Both of these seem false as you don't neccesarily need work to earn money and when you a tired generally you do sleep.  A monkey is a mammal of the order primates if and only if it is a guenon, macaque, langur, and capuchin, but excludes humans, the anthropoid apes, and, usually, the tarsier and prosimians.  Music is an art of sound in time if and only if it expresses ideas and emotions in significant forms through the elements of rhythm, melody, harmony, and color. Bicondinional don't make for good definitions because they are too limiting.
+
+Your first conditional can't be written as a converse.  For the second one, if the angle is 90 degrees then it is a right angle.  This second statement is correct. Benthos is flora and fauna if and only if it is found on the bottom of a sea or a lake.  A person is a Bibliopole if and only if they buy and sell rare books.  In this case the biconditional statements are true mostly because the definitions are so specific.
