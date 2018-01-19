@@ -1,0 +1,55 @@
+Ian Kilgore
+11-27-2017
+
+Perception portfolio
+
+1. Describe the structure of a neuron and explain the function of each of its major parts.
+
+Neurons have three parts that carry out the functions of communication and integration called the dendrites, axons, and axon terminals. Dendrites are the structures on the neuron that receive electrical messages. The function of the axon is to transmit information to different neurons, muscles, and glands. The axonal terminals release the neurotransmitters of the presynaptic cell. The cell body, or soma, carries out the basic life processes of neurons.
+
+2. Explain the interaction between the central nervous system and peripheral nervous system.
+
+The peripheral nervous system contains the nerves, which leave the brain and the spinal cord and travel to certain areas of the body. The peripheral nervous system sends information gathered by the body's sensory receptors to the central nervous system.
+
+
+3. If the corpus callosum is severed, how might this affect the way that we perceive the world?
+
+If the corpus callosum is severed, there is no communication or information transfer between the left and right hemishpheres of the brain. This can be helpful for patients suffering from bad seizures, but can also cause illnesses such as neglect syndrome.
+
+
+4. How might modern brain imaging techniques be useful to psychologists?
+
+An fMRI is a test that uses powerful magnets, radio waves, and a computer to make detailed pictures inside your body. This technique may be useful to psychologists because it shows in real time of how a person's brain is reacting to particular stimuli instead of relying on phrenology.
+
+5. Explain at least one potential implication for the genetic diagnosis of traits such as intelligence and criminality.
+
+Since there are so many genetic variables at play, it is dangerous to to make a genetic diagnosis such as someone being a criminal based on a few common determining factors, as it could lead to discrimination.
+
+
+6. Briefly explain Freud's theory of dreams.
+
+Freud believed that the unconcious mind governed behavior to a high degree and that it is driven by repressed wish fulfillment.
+
+7. Explain Gestalt theory, and cite an example.
+
+People have to see a difference between an object and the space surrounding it. The mind will often fill spaces, look for patterns, and look for similarity in things. For example, our mind will see "wholes" out of "individual" elements such as in a broken line drawing.
+
+
+8. Explain the difference between absolute threshold and difference threshold.
+
+Absolute threshold is the lowest level of a stimulus such as light, sound, touch, that an organism can detect. Whereas difference threshold is the smallest amount by which two sensory stimuli can differ in order for an individual to perceive them as different.
+
+
+9. Explain, in detail, the process of vision.
+
+All vision is based on the perception of electromagnetic rays. These rays pass through the cornea in the form of light. The cornea focuses the rays as they enter the eye through the pupil. The iris opens and closes, making the pupil bigger or smaller. This regulates the amount of light passing through. These cells in the retina convert the light into electrical impulses. The optic nerve sends these impulses to the brain, which produces an image.
+
+10. Describe the Gestalt principles of proximity, similarity, continuity, and closure.
+
+The Gestalt law of proximity states that "objects or shapes that are close to one another appear to form groups". Even if the shapes, sizes, and objects are very different, they will appear as a group if they are close together.
+
+Gestalt Principle of similarity states that things which share visual characteristics such as shape, size, color, texture, value or orientation will be seen as belonging together.
+
+Gestalt Principle of continuity occurs when patterns and lines are perceived as continuing in time and space. Continuity is that our brains tend to see objects as continuous or smooth rather than disjointed or discontinuous. 
+
+Gestalt Principle of closure states that individuals perceive objects such as shapes, letters, pictures, as being whole when they are not complete. Specifically, when parts of a whole picture are missing, our perception fills in the visual gap.
