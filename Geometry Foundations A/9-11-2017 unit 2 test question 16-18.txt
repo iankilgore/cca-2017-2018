@@ -1,0 +1,6 @@
+16. When naming a line segment you say the points at each end of the line segment and draw a line at each of the two points.  When naming a line the line that would be above a segment is now an arrow pointing in opposite directions.
+
+17. Constructing the perpendicular bisector and the angular bisector are the same in that you have to draw arcs that intersect each other so that you can draw the intersecting line that shows either the midpoint or divides the angles equally.  They are different in that you start with a line when creating a perpendicular bisector and you start with an angle to construct the angle bisector.
+
+18. You start with line segment AB. Put your compass on point A and draw an arc greater than half of the line segment then move your compass to point B and create an arc without changing the compass setting. Then draw a straight line from the two intersection points of the arcs to create the bisector.
+

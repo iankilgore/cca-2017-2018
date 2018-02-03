@@ -1,0 +1,23 @@
+14. A. Symmetric property of equality
+B. Definition of supplementary angles
+C. subtraction property of equality
+
+15. A. 180 degrees
+B. 180 degrees
+C. transitive property of inequality
+D. measure of angle 3
+E. angle 3
+
+16. A. addition property of equality
+B. subsitutution property of equality
+C. combining like terms
+D. subtraction property of equality
+E. division property of equality
+
+17. 7y = 8x - 14, y = 6      given
+7(6) = 8x-14                 substituation property of equality
+42 = 8x - 		     
++14  +14		     addition property of equality
+56/8 = 8x/8		     
+
+x = 7			     division property of equality

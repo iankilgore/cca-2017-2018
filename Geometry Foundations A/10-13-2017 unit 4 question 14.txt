@@ -1,0 +1,4 @@
+1. Angle 1 is congruent to angle 5	1. corresponding angles postulates
+2. vertical angles theorem
+3. Same side interior angles theorem
+4. l || m 			4. converse of the same side interior angles theorem

@@ -1,0 +1,1 @@
+8. Since the two wires form vertical angles, we know that the angle opposite the 72 degree angle is also 72 degrees. Because of the vertical angles theorem, the other two angles will also be congruent to each other. So you take 180 degrees - 72 degrees to get 108 degrees. So angles 1 and 3 equal 72 degrees and angles 2 and 4 are both 108 degrees.
