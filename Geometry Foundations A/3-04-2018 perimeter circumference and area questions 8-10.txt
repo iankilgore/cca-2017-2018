@@ -1,0 +1,5 @@
+8. We could treat one of the rays of the angle as a perpendicular bisector and we could construct a congruent angle by creating an arc across both rays and measuring with the compass the distance between the rays at the arc intersections and then creating another arc from one of those points that intersects and draw a ray to that point.
+
+9. Because the arcs drawn by the compass need to intersect and if they are less than 1/2 of the length they won't.
+
+10. The intersection points of the arcs are where we draw the ray extending from the angle vertex.
