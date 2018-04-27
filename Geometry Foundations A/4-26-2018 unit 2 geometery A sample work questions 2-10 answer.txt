@@ -1,0 +1,45 @@
+1. ???
+
+2. Ray DC intersects segment AB but DC does not
+
+                   .B
+                   /
+                  /
+                 /
+                /
+.--------.----------->
+D        C     /
+              /
+             /
+            /
+           .A
+3. 12 + 15 = 27
+4. 2x-4 + 5x-16 = 7x-20
+5a. supplementary angles are two angles that add up to 180 degrees, NQJ
+5b. vertical angles are pairs of opposite angles made by two intersecting lines, LQN
+5c. congruent angles have the same measure in degrees, KQP
+
+6.  CEB is a right angle and AE = EB
+           .C
+            |
+            |
+            |
+            |
+.-----------E------------.
+A           |            B
+            |
+            |
+            |
+            .D
+
+7. it's the square root of ((7 * 7) + (2 * 2)) = 7.2801 (7.3)
+8. it's the square root of ((7 * 7) + (2 * 2)) = 7.2801 (7.3)
+9. 
+polygon name: concave triangle
+sides: 4
+angles: 4
+concave or convex?: concave
+
+10. 
+perimeter: 1 + 1 + 1 + 2 + 2 + 3 = 10cm
+area: 2 * 2 + 1 * 1 = 5cm
