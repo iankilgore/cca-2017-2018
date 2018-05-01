@@ -1,0 +1,7 @@
+20. I assumed that these were complementary angles
+(x - 3) + (2x - 13) = 90
+3x - 16 = 90
+   + 16 + 16
+3x / 3 = 106 / 3
+       ________________
+x = 35.3333333333333333
