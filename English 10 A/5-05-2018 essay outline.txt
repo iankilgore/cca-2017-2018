@@ -1,0 +1,13 @@
+sight
+fabric pieces and particles on the floor
+
+
+sound
+sound of cutting metal wires, sound of computers running, 
+
+
+touch
+heat of the room due to computers running
+
+smell
+smell of pieces of the fabric and metal security bag
